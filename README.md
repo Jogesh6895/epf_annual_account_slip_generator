@@ -302,6 +302,14 @@ This is the **final consolidated version** combining features from:
 - Excel-based calculators (ModifiedCalc variants)
 - Enhanced with modern Python practices, type hints, and error handling
 
-## License
+## 📄 License
 
-This is an internal tool for EPF annual account slip generation.
+This is an internal tool for EPF annual account slip generation and is available under the [MIT License](LICENSE).
+
+## 👨‍💻 Author
+
+**Jogesh Kumar Ghadai**
+- Email: jogesh6895@gmail.com
+- GitHub: [@Jogesh6895](https://github.com/Jogesh6895)
+
+---
